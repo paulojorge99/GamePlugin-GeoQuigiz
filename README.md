@@ -1,7 +1,5 @@
 
-## GeoQuigiz
-
-#### A QGIS plugin
+## GeoQuigiz #### A QGIS plugin
 
 ###### With this plugin, it is intended that, through a button in QGIS, the user can play 2 games, related to the countries / capitals of the world, and their flags.
 
