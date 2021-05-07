@@ -11,12 +11,14 @@
 ###### In both games, the player has 3 tries and the last, if he misses, the correct location appears, moving on to the next question. A total of five questions are asked per game. As you hit, the locations are recorded on the map.
 
 
+
+
 ```                                 
 *********************************************************************************************************************************
 *********************************************************************************************************************************
 *                                                                                                                               *
-*                                                 MIEBIOM – Informática Médica – 2020/2021                                      *
-*                                                    Sistemas de Informação Geográfica                                          *
+*                                              MIEBIOM – Informática Médica – 2020/2021                                         *
+*                                                 Sistemas de Informação Geográfica                                             *
 *                                                                                                                               *
 *********************************************************************************************************************************
 *                                                                                                                               *
