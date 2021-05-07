@@ -1,9 +1,9 @@
 
 ## GamePlugin-GeoQuigiz
 
-A QGIS plugin
+### A QGIS plugin
 
-With this plugin, it is intended that, through a button in QGIS, the user can play 2 games, related to the countries / capitals of the world, and their flags.
+###### With this plugin, it is intended that, through a button in QGIS, the user can play 2 games, related to the countries / capitals of the world, and their flags.
 
 In a first game "Capitals' Game", where the world map appears and a window appears with a random capital, the player will have to click on the point of the map where he thinks it is the respective capital.
 
