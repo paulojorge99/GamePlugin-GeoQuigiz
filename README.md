@@ -2,7 +2,7 @@
 ## GamePlugin-GeoQuigiz
 
 A QGIS plugin
-'''                                 
+```                                 
 ******************************************************************
 ******************************************************************
                                                                 
@@ -16,7 +16,7 @@ A QGIS plugin
  *          Paulo Jorge Alves (84480)                             *
  
  *****************************************************************/
-'''
+``` 
 
 Neste plugin, pretende-se que com um botão no menu do QGIS, o utilizador ao carregar irá aparecer uma janela para escolher o jogo que pretende jogar.
 
