@@ -1,0 +1,2 @@
+# GamePlugin-GeoQuigiz
+QGIS plugin
