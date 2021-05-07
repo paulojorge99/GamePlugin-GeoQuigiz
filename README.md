@@ -15,14 +15,15 @@
 
 ```                                 
 
-*                                                                                            *
-*                         MIEBIOM – Informática Médica – 2020/2021                           *
-*                            Sistemas de Informação Geográfica                               *
-*                                                                                            *
-*                                                                                            *
-*   João Miguel da Silva Alves (83624)                                                       *
-*   Paulo Jorge Alves (84480)                                                                *
-*                                                                                            *
+*                                                                                  *
+*                  MIEBIOM – Informática Médica – 2020/2021                        *
+*                     Sistemas de Informação Geográfica                            *
+*                                                                                  *
+************************************************************************************
+*                                                                                  *
+*   João Miguel da Silva Alves (83624)                                             *
+*   Paulo Jorge Alves (84480)                                                      *
+*                                                                                  *
 
 ``` 
 
