@@ -15,15 +15,15 @@
 ###### In this game, there is also the "Exit" option, if the user wants to leave the game.
 
 
-                                                                                    ```
+```
 
-                                                                      Sistemas de Informação Geográfica
-                                                                  Mestrado Integrado em Engenharia Biomédica
-                                                                                2020/2021
+                                                              Sistemas de Informação Geográfica
+                                                          Mestrado Integrado em Engenharia Biomédica
+                                                                        2020/2021
 
-                                                                      João Miguel da Silva Alves (83624)
-                                                                         Paulo Jorge Alves (84480)
- 
-                                                                                     ```
+                                                              João Miguel da Silva Alves (83624)
+                                                                 Paulo Jorge Alves (84480)
+
+```
 
 
