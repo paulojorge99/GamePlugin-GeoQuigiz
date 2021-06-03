@@ -1,0 +1,8 @@
+[general]
+name=GeoQuigiz
+description=This plugin is to play a capitals game.
+version=1.0
+qgisMinimumVersion=3.0
+author=Joao Alves e Paulo Jorge
+email=a83624@alunos.uminho.pt
+
