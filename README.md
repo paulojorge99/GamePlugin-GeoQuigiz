@@ -13,7 +13,6 @@
 ###### In both games, the player has 3 tries and the last, if he misses, the correct location appears, moving on to the next question. A total of five questions are asked per game. As you hit, the locations are recorded on the map.
 
 ###### In this game, there is also the "Exit" option, if the user wants to leave the game.
-ola
 
 
 ```
